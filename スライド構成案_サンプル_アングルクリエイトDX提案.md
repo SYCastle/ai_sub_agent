@@ -1,4 +1,3 @@
-https://claude.ai/artifact/XRZARiLBwUrqWdy4Vj6VzH
 
 # あなた
 社内DXを提案/推進するITコンサルタント/エンジニアです。
